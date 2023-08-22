@@ -25,13 +25,13 @@ Build a React website in 24 hours to showcase the following:
 ## Homepage visuals
 
 
-![Imgur](https://i.imgur.com/zzTxoS2.png?1)
-![Imgur](https://i.imgur.com/voIJ0AG.png?1)
-![Imgur](https://i.imgur.com/xjHH6Hr.png?1)
-![Imgur](https://i.imgur.com/3JJlqb9.png?1)
-![Imgur](https://i.imgur.com/4MTPw56.png?1)
-![Imgur](https://i.imgur.com/dDprlF7.png?1)
+![Imgur]()
+![Imgur]()
+![Imgur]()
+![Imgur]()
+![Imgur]()
+![Imgur]()
 
 ## Skill set visuals
 
-![Imgur](https://i.imgur.com/bVE2xqe.png?1)
+![Imgur]()
